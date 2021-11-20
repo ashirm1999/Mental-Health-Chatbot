@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R"
-author: "Kylie Ariel Bemis"
+author: "ASHIR MEHTA"
 date: "9/11/2020"
 output:
   html_document:
